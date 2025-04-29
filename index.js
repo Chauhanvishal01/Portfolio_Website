@@ -93,7 +93,7 @@ const projects = [
     title: "Social Media Web App",
     description:
       "Connecting people through a modern Social Media App with intelligent AI-driven conversations.",
-    link: "https://github.com/Chauhanvishal01/DILSELINK",
+    link: "https://dilselink.onrender.com/",
     image: "./assests/project_img/project2.png",
   },
   {
